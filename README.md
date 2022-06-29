@@ -6,7 +6,7 @@
   Zettlr [<em>ˈset·lər</em>]
 </h1>
 
-<p align="center"><strong>A Markdown Editor for the 21<sup>st</sup> century</strong>.</p>
+<p align="center"><strong>A Markdown Editor for the 21<sup>st</sup> century. This is Chirstoph's version of the readme file</strong>.</p>
 
 <p align="center">
   <a href="https://doi.org/10.5281/zenodo.2580173">
